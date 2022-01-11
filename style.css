@@ -1,0 +1,9 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+#quote-box {
+  width: 400px;
+  margin: 0 auto;
+}
